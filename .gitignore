@@ -1,0 +1,10 @@
+__pycache__
+*.egg-info
+
+# libreoffice lock file
+.~lock*
+
+sql_app.db
+cred.json
+
+runfairly*

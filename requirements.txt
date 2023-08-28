@@ -1,0 +1,36 @@
+# api
+asyncpg
+# aiofiles
+authlib
+# cryptography
+docxtpl
+fastapi
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+gunicorn
+oauth2client
+
+passlib[bcrypt]
+pillow
+pika
+pydantic
+python-jose[cryptography]
+python-multipart
+pyjwt
+pytest
+python-dateutil
+requests
+stripe
+toml
+uvicorn[standard]
+
+# cli
+# typer
+
+# models
+psycopg2
+sqlalchemy
+
+# development
+neovim
