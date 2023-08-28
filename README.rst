@@ -1,5 +1,5 @@
 FairlyTaxed API
-===
+====
 
 requires at least python version 3.6 (probably higher)
 
